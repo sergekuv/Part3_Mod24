@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part3_Mod24_Lib", "Part3_Mod24_Lib\Part3_Mod24_Lib.csproj", "{907E9F51-B8A8-436B-8DBB-BAC5C9CD843F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part3_Mod24_Console", "Part3_Mod24_Console\Part3_Mod24_Console.csproj", "{DEE03373-7E89-4F3B-B7FD-973D1621BD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907E9F51-B8A8-436B-8DBB-BAC5C9CD843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907E9F51-B8A8-436B-8DBB-BAC5C9CD843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907E9F51-B8A8-436B-8DBB-BAC5C9CD843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907E9F51-B8A8-436B-8DBB-BAC5C9CD843F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE03373-7E89-4F3B-B7FD-973D1621BD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE03373-7E89-4F3B-B7FD-973D1621BD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE03373-7E89-4F3B-B7FD-973D1621BD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE03373-7E89-4F3B-B7FD-973D1621BD95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCC45BB-50CC-4EC3-BFAC-A457EEDAAF4E}
+	EndGlobalSection
+EndGlobal
